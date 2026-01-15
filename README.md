@@ -166,73 +166,30 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 pip install uv
 ```
 
-#### macOS
+#### Installation
 
 ```bash
-# Create virtual environment and install KugelAudio with UI support
-uv venv --python 3.11
-source .venv/bin/activate
+# Clone the repository
+git clone https://github.com/Kugelaudio/kugelaudio-open.git
+cd kugelaudio-open
 
-# Install PyTorch (MPS support for Apple Silicon)
-uv pip install torch torchvision torchaudio
-
-# Install KugelAudio with UI support
-uv pip install kugelaudio-open[ui]
+# Run directly with uv (recommended - handles all dependencies automatically)
+uv run python start.py
 ```
 
-#### Windows
-
-```powershell
-# Create virtual environment
-uv venv --python 3.11
-.venv\Scripts\activate
-
-# Install PyTorch (with CUDA if available)
-uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-
-# Install KugelAudio with UI support
-uv pip install kugelaudio-open[ui]
-```
-
-#### Linux
-
-```bash
-# Create virtual environment
-uv venv --python 3.11
-source .venv/bin/activate
-
-# Install PyTorch (with CUDA if available)
-uv pip install torch torchvision torchaudio
-
-# Install KugelAudio with UI support
-uv pip install kugelaudio-open[ui]
-```
-
-#### From Source
-
-```bash
-git clone https://github.com/kugelaudio/kugelaudio.git
-cd kugelaudio/kugelaudio-model
-uv pip install -e ".[ui]"
-
-# Or run directly with the start script
-python start.py
-```
+That's it! The `uv run` command will automatically create a virtual environment and install all dependencies.
 
 ### Launch Web Interface
 
 ```bash
-# Quick start (from the kugelaudio-model directory)
-python start.py
-
-# Or with uv
-uv run kugelaudio ui
+# Quick start with uv (recommended)
+uv run python start.py
 
 # With a public share link
-python start.py ui --share
+uv run python start.py ui --share
 
 # Custom host and port
-python start.py ui --host 0.0.0.0 --port 8080
+uv run python start.py ui --host 0.0.0.0 --port 8080
 ```
 
 Then open http://127.0.0.1:7860 in your browser.
@@ -241,16 +198,16 @@ Then open http://127.0.0.1:7860 in your browser.
 
 ```bash
 # Generate speech from text
-python start.py generate "Hello, this is KugelAudio!" -o hello.wav
+uv run python start.py generate "Hello, this is KugelAudio!" -o hello.wav
 
 # With voice cloning
-python start.py generate "Hello in your voice!" -r reference.wav -o cloned.wav
+uv run python start.py generate "Hello in your voice!" -r reference.wav -o cloned.wav
 
 # Using the default model for higher quality
-python start.py generate "Premium quality speech" --model kugelaudio/kugelaudio-0-open -o premium.wav
+uv run python start.py generate "Premium quality speech" --model kugelaudio/kugelaudio-0-open -o premium.wav
 
 # Check if audio contains watermark
-python start.py verify audio.wav
+uv run python start.py verify audio.wav
 ```
 
 ### Python API
